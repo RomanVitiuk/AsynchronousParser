@@ -4,6 +4,7 @@ This script asynchronous parse all pages from [bookstore](https://books.toscrape
 
 Libraries using in script:
 * aiohttp
+* beautifulsoup4
 * pandas.
 
 Script collect information about 1000 books.
